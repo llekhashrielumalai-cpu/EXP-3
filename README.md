@@ -41,10 +41,18 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
+![image]( https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-3/121c98b4c6bfc01dd96ac29e0741bb4e68ee1bb3/3.1.jpeg)
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection:
+![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-3/121c98b4c6bfc01dd96ac29e0741bb4e68ee1bb3/3.2.jpeg)
+
+CIRCUIT DIAGRAM:
+![image](
+https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-3/121c98b4c6bfc01dd96ac29e0741bb4e68ee1bb3/3.2.png
+)
 
 Tabulation:2
-
+![image](
+https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-3/121c98b4c6bfc01dd96ac29e0741bb4e68ee1bb3/3.4.png)
 RESULT:
 Thus the staircase wiring is connected and tested.
